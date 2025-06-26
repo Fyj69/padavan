@@ -94,7 +94,6 @@ function initial(){
 	if(!found_app_iperf3()){
 		showhide_div('row_iperf3', 0);
 	}
-	
 }
 
 function applyRule(){

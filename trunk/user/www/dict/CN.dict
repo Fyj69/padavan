@@ -226,7 +226,6 @@ Adm_Svc_ttyd_setup=ttyd 设置
 Adm_Svc_ttyd_enable=启用 ttyd 服务
 Adm_Svc_ttyd_port=ttyd 监听端口
 Adm_Svc_ttyd_desc=将 ttyd 服务作为守护进程运行，默认使用端口7681 (打开后会替换系统的控制台程序)
-Adm_Svc_napt66=启用 napt66 (重启后生效)
 Adm_Svc_vlmcsd=启用 vlmcsd 服务
 Adm_Svc_vlmcsd_desc=Windows 系统激活服务器
 Adm_Svc_iperf3=启用 iperf3 服务

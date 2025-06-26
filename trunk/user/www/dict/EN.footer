@@ -223,7 +223,6 @@ Adm_Svc_ttyd_setup=ttyd Config
 Adm_Svc_ttyd_enable=Enable ttyd Service
 Adm_Svc_ttyd_port=ttyd Bind Port
 Adm_Svc_ttyd_desc=Run ttyd service as a daemon, using port 7681 by default (will replace the system's console program when opened)
-Adm_Svc_napt66=Enable napt66?(After reboot)
 Adm_Svc_vlmcsd=Enable vlmcsd (KMS Activation)
 Adm_Svc_vlmcsd_desc=Windows System activation server
 Adm_Svc_iperf3=iPerf3 service

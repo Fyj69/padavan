@@ -238,6 +238,7 @@
 #if defined (APP_IPERF3)
 			{"iperf3_enable", "", NULL, EVM_RESTART_IPERF3},
 #endif
+
 			{"http_username", "", NULL, EVM_RESTART_CROND|EVM_BLOCK_UNSAFE},
 			{"http_passwd", "", NULL, EVM_BLOCK_UNSAFE},
 			{"modem_rule", "", NULL, EVM_RESTART_MODEM},

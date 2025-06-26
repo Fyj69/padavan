@@ -1732,7 +1732,6 @@ ip6t_nat_rules(char *man_if)
 		doSystem("ip6tables-restore %s", ipt_file);
 }
 
-
 #endif
 
 static int
